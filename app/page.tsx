@@ -96,7 +96,7 @@ export default function LandingPage() {
         >
           <motion.div variants={itemVariants}>
             <a
-              href="https://pay.kirvano.com/bcb87495-989d-4173-be8c-bd0776778a13"
+              href="https://pay.kirvano.com/7a9c258e-463d-4876-9433-3b9ec84e3d18"
               target="_blank"
               rel="noopener noreferrer"
             >
